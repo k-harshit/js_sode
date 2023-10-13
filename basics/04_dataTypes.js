@@ -26,3 +26,6 @@ console.log(myObj);
 const myFunction = function name() {
     console.log("Good morning sir");
 }
+//console.log(name());
+console.log(typeof myFunction);
+console.log(typeof null);
