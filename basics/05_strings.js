@@ -17,5 +17,4 @@ console.log(gameName.__proto__);
  * trim
  * etc
  * to search keywords (includes())
- * 
  * /
