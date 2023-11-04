@@ -103,3 +103,8 @@ const course = {
 //   console.log(courseInstructor);
      
 
+// {
+ 
+// this is the form in which Json is written
+
+// }
